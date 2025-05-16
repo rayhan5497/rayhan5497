@@ -53,7 +53,7 @@ I'm always open to collaborating, learning from others, or just chatting about t
 
 📩 Email: `raihan5497681@gmail.com`  
 
-📩 WhatsApp: `01639638879`
+📩 WhatsApp: `+8801639638879`
 
 🌐 Portfolio `(coming soon)`
 
