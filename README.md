@@ -45,7 +45,7 @@ I believe in *understanding how things work*, not just making them work.
 
 ### 🎬 Moviemon (React App)
 
-🔗 Live: [Movimon](https://moviemon-v2.vercel.app)
+🔗 Live: [Movimon](https://moviemon-v2.netlify.app)
 
 📦 Repo: [https://github.com/rayhan5497/moviemon-v2](https://github.com/rayhan5497/moviemon-v2)
 
