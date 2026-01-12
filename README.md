@@ -1,78 +1,117 @@
 # 👋 Hi, I'm Rayhan
 
-I'm a self-taught and passionate **frontend web developer** with a growing interest in **backend development** and full-stack solutions. I love turning ideas into interactive, responsive, and user-friendly web apps.
+I'm a **frontend-focused web developer** who builds real-world, production-style applications with clean UI, solid architecture, and professional Git workflows. I started as a self-taught frontend developer and am now **deliberately expanding into backend and full‑stack development**, focusing on fundamentals rather than shortcuts.
+
+I believe in *understanding how things work*, not just making them work.
 
 ---
 
 ## 💼 What I Do
 
-- 🎯 Building real-world frontend projects using **HTML, CSS, JavaScript**
-- 🧠 Learning **Node.js** and backend fundamentals deeply — from scratch
-- ⚙️ Exploring how things work under the hood — not just using tools, but understanding them
-- 🚀 Slowly transitioning toward full-stack development to build complete apps
+* 🧩 Build responsive, interactive frontend apps using **HTML, CSS, JavaScript, React**
+* 🏗️ Design apps with **real-world structure** (API layers, separation of concerns)
+* 🔐 Use backend proxies to protect API keys and control requests
+* 🌱 Learn backend development **from first principles** (HTTP, servers, data flow)
+* 🧠 Continuously refactor projects for clarity, performance, and maintainability
 
 ---
 
 ## 🧩 Tech Stack
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+**Frontend**
+
+* HTML5, CSS3
+* JavaScript (ES6+)
+* React (Hooks, component-driven UI)
+
+**Backend (learning & using)**
+
+* Node.js, Express.js
+* MongoDB
+
+**Tools & Workflow**
+
+* Git & GitHub
+* VS Code
+* Vercel / Netlify
+* AWS (basics: deployment concepts, services awareness)
+* REST APIs, JSON
+* NPM, basic build tooling
+* Custom libraries: building reusable **UI components**, **icon sets**, and small utilities for consistency and reuse
 
 ---
 
-## 🔨 Projects
+## 🔨 Featured Projects
 
-### 🏏 [Live Cricket Score App](https://live-cricket-score-five.vercel.app)
-A real-time match viewer that fetches and caches cricket data using a backend proxy to protect API keys.
+### 🎬 Moviemon (React App)
 
-### ⏲️ [Promodoro Time App](https://rayhan5497.github.io/promodoro-timer-app)
-A frontend-only promodoro timer app to keep you focused.
+🔗 Live: [Movimon](https://moviemon-v2.vercel.app)
 
-###  🗎 [Documentation app](https://rayhan5497.github.io/documentation-app)
-A clean and responsive documentaion app that allows you to document anything.
+📦 Repo: [https://github.com/rayhan5497/moviemon-v2](https://github.com/rayhan5497/moviemon-v2)
 
----
-
-## 🎯 Goals
-
-- Master **JavaScript (deeply)** for both frontend and backend.
-- Learn core **backend concepts**: HTTP, REST, file systems, security, performance.
-- Build a **full-featured websites** (frontend + backend).
-- Contributing to open-source project.
+* Built with React + Vite
+* Fetches data from TMDB API with search, filters, and infinite scrolling
+* Focused on component-driven architecture and reusable UI logic
+* Handles async data, loading states, and error cases cleanly
+* Designed with performance and UX in mind
 
 ---
 
-## 🤝 Let's Connect
+### 🏏 Live Cricket Score App
 
-I'm always open to collaborating, learning from others, or just chatting about the web and tech.
+🔗 Live: [Cricket App](https://live-cricket-score-five.vercel.app)
 
-📩 Email: `raihan5497681@gmail.com`  
+📦 Repo: [https://github.com/rayhan5497/live-cricket-score](https://github.com/rayhan5497/live-cricket-score)
 
-📩 WhatsApp: `+8801639638879`
-
-🌐 Portfolio `[https://developer-rayhan.netlify.app]`
+* Fetches live cricket data through a **backend proxy** to protect API keys
+* Implements **basic caching** to reduce unnecessary API calls
+* Clean UI focused on readability and real-time updates
+* Designed with separation between frontend and data layer
 
 ---
 
-_“The best way to learn is by building. Every small step forward is still forward.”_
-### Thanks for visiting my profile ❤️
+### ⏲️ Pomodoro Timer App
 
-<!--
-**rayhan5497/rayhan5497** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔗 Live: [Pomodoro Timer](https://rayhan5497.github.io/promodoro-timer-app)
 
-Here are some ideas to get you started:
+📦 Repo: [https://github.com/rayhan5497/promodoro-timer-app](https://github.com/rayhan5497/promodoro-timer-app)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Frontend-only productivity app built with vanilla JavaScript
+* Focused on **state management**, timing accuracy, and clean UX
+* Lightweight, fast, and dependency-free
+
+---
+
+### 🗎 Documentation App
+
+🔗 Live: [Documentation App](https://rayhan5497.github.io/documentation-app)
+
+📦 Repo: [https://github.com/rayhan5497/documentation-app](https://github.com/rayhan5497/documentation-app)
+
+* Responsive documentation-style layout
+* Designed for readability and structured content
+
+---
+
+## 🧠 How I Approach Development
+
+* Prefer **clarity over cleverness**
+* Write small, meaningful commits
+* Learn concepts before frameworks
+* Treat personal projects like team projects
+* Refactor often — not because it’s broken, but because it can be better
+
+---
+
+## 🤝 Let’s Connect
+
+* 📩 Email: **[raihan5497681@gmail.com](mailto:raihan5497681@gmail.com)**
+* 💬 WhatsApp: **+8801639638879**
+* 🌐 Portfolio: [https://developer-rayhan.netlify.app](https://developer-rayhan.netlify.app)
+* 💻 GitHub: [https://github.com/rayhan5497](https://github.com/rayhan5497)
+
+---
+
+> *“The best way to learn is by building — and then rebuilding better.”*
+
+Thanks for visiting 👋
