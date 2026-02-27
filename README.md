@@ -1,47 +1,56 @@
-# 👋 Hi, I'm Rayhan
+# 👋 Hi there
 
-I'm a **frontend-focused web developer** who builds real-world, production-style applications with clean UI, solid architecture, and professional Git workflows. I started as a self-taught frontend developer and am now **deliberately expanding into backend and full‑stack development**, focusing on fundamentals rather than shortcuts.
-
-I believe in *understanding how things work*, not just making them work.
+I am Rayhan, a full-stack developer focused on building fast, maintainable web products with clean architecture and great UX. I like turning complex interfaces into simple, predictable experiences that scale.
 
 ---
 
-## 💼 What I Do
+## What I Do
 
-* 🧩 Build responsive, interactive frontend apps using **HTML, CSS, JavaScript, React**
-* 🏗️ Design apps with **real-world structure** (API layers, separation of concerns)
-* 🔐 Use backend proxies to protect API keys and control requests
-* 🌱 Learn backend development **from first principles** (HTTP, servers, data flow)
-* 🧠 Continuously refactor projects for clarity, performance, and maintainability
+I work end-to-end across frontend and backend, from product planning and UI architecture to APIs and deployment. I care about performance, clarity, and the long-term health of a codebase.
 
 ---
 
-## 🧩 Tech Stack
+## Focus Areas
+
+* Product-first engineering and usability
+* Scalable architecture and clear boundaries
+* Performance and developer experience
+* Thoughtful design systems and UI consistency
+
+---
+
+## Technical Strengths
 
 **Frontend**
 
-* HTML5, CSS3
-* JavaScript (ES6+)
-* React (Hooks, component-driven UI)
+* HTML, CSS, React, Vite, React Router
+* TanStack Query
+* Tailwind CSS, MUI
+* Framer Motion, Swiper
 
 **Backend**
 
-* Node.js, Express.js
-* MongoDB
+* Node.js, Express
+* MongoDB, Mongoose, SQL DB, Cloud (file management)
+* JWT auth, bcrypt
 
-**Tools & Workflow**
+**Tooling**
 
-* Git & GitHub
-* VS Code
+* ESLint with architecture rules
+* Jest, Supertest
+* Docker
+
+**Other**
+
 * Vercel / Netlify
-* AWS 
+* AWS
+* CI / CD
 * REST APIs, JSON
-* NPM, basic build tooling
-* Custom libraries: building reusable **UI components**, **icon sets**, and small utilities for consistency and reuse
+* SPA, SSG, SSR
 
 ---
 
-## 🔨 Featured Projects
+## Featured Projects
 
 ### 🎬 Moviemon (React App)
 
@@ -49,11 +58,12 @@ I believe in *understanding how things work*, not just making them work.
 
 📦 Repo: [https://github.com/rayhan5497/moviemon](https://github.com/rayhan5497/moviemon)
 
-* Built with React + Vite
-* Fetches data from TMDB API with search, filters, and infinite scrolling
-* Focused on component-driven architecture and reusable UI logic
-* Handles async data, loading states, and error cases cleanly
-* Designed with performance and UX in mind
+* React 19 + Vite client with a Node.js + Express server
+* Search, filters, and infinite scroll for large catalogs
+* Personal library flows: saved, watch later, and watch history
+* Auth flows: registration, login, email verification, password reset
+* Media playback with subtitle support
+* Responsive UI with clean loading and error states
 
 ---
 
@@ -93,13 +103,17 @@ I believe in *understanding how things work*, not just making them work.
 
 ---
 
-## 🧠 How I Approach Development
+## How I Approach Development
 
-* Prefer **clarity over cleverness**
-* Write small, meaningful commits
-* Learn concepts before frameworks
-* Treat personal projects like team projects
-* Refactor often — not because it’s broken, but because it can be better
+* Clear product goals and user flows before implementation
+* Clean architecture and strict boundaries for maintainability
+* Iterative delivery with tight feedback loops
+* Performance and developer experience as first‑class concerns
+* Collaboration with teams that value UX and engineering quality
+
+---
+
+I value clean interfaces, thoughtful abstractions, and teams that care about both user experience and engineering quality. Open to remote opportunities, collaboration and product-focused work.
 
 ---
 
