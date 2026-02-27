@@ -24,7 +24,7 @@ I believe in *understanding how things work*, not just making them work.
 * JavaScript (ES6+)
 * React (Hooks, component-driven UI)
 
-**Backend (learning & using)**
+**Backend**
 
 * Node.js, Express.js
 * MongoDB
@@ -34,7 +34,7 @@ I believe in *understanding how things work*, not just making them work.
 * Git & GitHub
 * VS Code
 * Vercel / Netlify
-* AWS (basics: deployment concepts, services awareness)
+* AWS 
 * REST APIs, JSON
 * NPM, basic build tooling
 * Custom libraries: building reusable **UI components**, **icon sets**, and small utilities for consistency and reuse
@@ -45,9 +45,9 @@ I believe in *understanding how things work*, not just making them work.
 
 ### 🎬 Moviemon (React App)
 
-🔗 Live: [Movimon](https://moviemon-v2.netlify.app)
+🔗 Live: [Movimon](https://moviemon.netlify.app)
 
-📦 Repo: [https://github.com/rayhan5497/moviemon-v2](https://github.com/rayhan5497/moviemon-v2)
+📦 Repo: [https://github.com/rayhan5497/moviemon](https://github.com/rayhan5497/moviemon)
 
 * Built with React + Vite
 * Fetches data from TMDB API with search, filters, and infinite scrolling
@@ -108,7 +108,6 @@ I believe in *understanding how things work*, not just making them work.
 * 📩 Email: **[raihan5497681@gmail.com](mailto:raihan5497681@gmail.com)**
 * 💬 WhatsApp: **+8801639638879**
 * 🌐 Portfolio: [https://developer-rayhan.netlify.app](https://developer-rayhan.netlify.app)
-* 💻 GitHub: [https://github.com/rayhan5497](https://github.com/rayhan5497)
 
 ---
 
