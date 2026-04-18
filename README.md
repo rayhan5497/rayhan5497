@@ -67,6 +67,20 @@ I work end-to-end across frontend and backend, from product planning and UI arch
 
 ---
 
+### 🖼️ Image Toolkit (React App)
+
+🔗 Live: [Image Tookit](https://imagetoolkitz.netlify.app)
+
+📦 Repo: [https://github.com/rayhan5497/Image-Toolkit](https://github.com/rayhan5497/Image-Toolkit)
+
+* React 19 + Vite client with a Node.js + Express server
+* Batch Processing, Advanced Image Compression, Resize / Convert
+* Free, Premium and Business plan, PayPal payment methode integration.
+* Auth flows: registration, login, email verification, password reset
+* Responsive UI with clean loading and error states
+
+---
+
 ### 🏏 Live Cricket Score App
 
 🔗 Live: [Cricket App](https://live-cricket-score-five.vercel.app)
@@ -89,17 +103,6 @@ I work end-to-end across frontend and backend, from product planning and UI arch
 * Frontend-only productivity app built with vanilla JavaScript
 * Focused on **state management**, timing accuracy, and clean UX
 * Lightweight, fast, and dependency-free
-
----
-
-### 🗎 Documentation App
-
-🔗 Live: [Documentation App](https://rayhan5497.github.io/documentation-app)
-
-📦 Repo: [https://github.com/rayhan5497/documentation-app](https://github.com/rayhan5497/documentation-app)
-
-* Responsive documentation-style layout
-* Designed for readability and structured content
 
 ---
 
